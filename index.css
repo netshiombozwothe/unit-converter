@@ -1,0 +1,61 @@
+body{
+    background: #1F2937;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Inter, sans-serif;
+}
+.values{
+    background:#6943FF;
+    width:600px;
+    line-height: 60px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:0px;
+    margin-top: 0px;
+    font-weight: 900;
+    padding-bottom:20px;
+
+
+
+}
+.display-el{
+    background:#273549;
+    width:600px;
+    line-height: 35px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 900;
+    color: #CCC1FF;
+    font-size:15px;
+}
+#enterNumber{
+    background: #6943FF;
+    width: 150px;
+    line-height: 50px;
+    text-align: center;
+    margin-bottom:15px;
+    border: 1px solid #B295FF;
+    font-weight: 900;
+    font-size:20px;
+    color: #FFFFFF;
+    
+
+}
+#convertNumber{
+    background: whitesmoke;
+    width: 80px;
+    line-height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    color: #3D3D3D;
+    
+}
+h3{
+    padding-bottom: 0px;
+    padding-top: 10px;
+    
+}
